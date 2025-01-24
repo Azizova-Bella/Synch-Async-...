@@ -118,6 +118,8 @@ fetchData();
 
 ---
 
+![image](https://github.com/user-attachments/assets/2a58648d-6d3a-48e0-b9e0-a051422875f2)
+
 ## Try/Catch
 `try/catch` используется для обработки ошибок в JavaScript. Он особенно полезен при работе с асинхронным кодом.
 
@@ -156,7 +158,8 @@ fetch('https://jsonplaceholder.typicode.com/posts', {
 Для работы с запросами в Node.js используется модуль `request` (устарел, рекомендуется использовать `axios`).
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8fc8c459-2866-404b-a22c-80f20ff6a70c)
+
 
 #### Пример с Axios:
 ```javascript
