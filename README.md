@@ -57,8 +57,14 @@ console.log('Конец');
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/0c5834b2-fce1-4742-98da-07f0d214eafb)
+
+
 ## Promise (Обещание)
 Объект `Promise` представляет значение, которое будет доступно в будущем. Он используется для обработки асинхронных операций.
+
+![image](https://github.com/user-attachments/assets/e2938fbd-e1d8-4345-b95c-6861b39beb2b)
 
 ### Создание Promise:
 ```javascript
