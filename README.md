@@ -92,7 +92,7 @@ myPromise
 
 ---
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e417ab5-9a5d-44f9-900f-b05e4dcbf44f)
 
 ## Async/Await
 `async` и `await` делают асинхронный код более читабельным и похожим на синхронный.
@@ -135,6 +135,8 @@ try {
 
 ---
 
+![image](https://github.com/user-attachments/assets/b5ea84e0-930a-4fe3-abbc-08b9a6dc1e1c)
+
 ## Fetch и Request
 Методы `fetch` и `request` используются для выполнения HTTP-запросов.
 
@@ -148,8 +150,13 @@ fetch('https://jsonplaceholder.typicode.com/posts', {
   .catch((error) => console.error('Ошибка запроса:', error));
 ```
 
+![image](https://github.com/user-attachments/assets/ed9c3946-3f06-4f9a-8823-bd2c5f2f3426)
+
 ### Request (Node.js):
 Для работы с запросами в Node.js используется модуль `request` (устарел, рекомендуется использовать `axios`).
+
+
+![Uploading image.png…]()
 
 #### Пример с Axios:
 ```javascript
